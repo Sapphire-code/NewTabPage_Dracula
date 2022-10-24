@@ -25,11 +25,11 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: var(--bg-color);
   font-family: "Fira Code", monospace;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("https://github.com/aynp/dracula-wallpapers/raw/main/Art/Waves%201.png") !important;
 }
 
 .container {

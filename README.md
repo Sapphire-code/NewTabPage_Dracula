@@ -6,6 +6,8 @@
 <p>Links to original reddit post and github link.</p>
 <a href="https://www.reddit.com/r/startpages/comments/xxnnis/dracula_is_cool/"></a>
 <a href="https://github.com/aman333nolawz/startpage-v2"></a>
+[Reddit Link]: http://www.reddit.com/r/startpages/comments/xxnnis/dracula_is_cool
+[Original Github Repository]: https:://github.com/aman333nolawz/startpage-v2
 
 
 ## Credits:

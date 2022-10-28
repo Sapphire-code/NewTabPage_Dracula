@@ -1,6 +1,6 @@
 # A custom version of the original homepage I found on reddit.
 
-<img src="https://i.imgur.com/0i7OyQJ.png" alt="This is how the theme looks"></img>
+<!--<img src="https://i.imgur.com/0i7OyQJ.png" alt="This is how the theme looks"></img>-->
 
 
 Links to original reddit post and github link.

@@ -5,8 +5,8 @@
 
 <p>
 Links to original reddit post and github link.
-<a href="https://www.reddit.com/r/startpages/comments/xxnnis/dracula_is_cool/"></a>
-<a href="https://github.com/aman333nolawz/startpage-v2"></a>
+<a href="https://www.reddit.com/r/startpages/comments/xxnnis/dracula_is_cool/">Original Reddit Post</a>
+<a href="https://github.com/aman333nolawz/startpage-v2">Original Github Repository</a>
 </p>
 
 

@@ -109,7 +109,11 @@ body {
   overflow: auto;
   scrollbar-color: var(--secondary-color) var(--third-color);
   scrollbar-width: thin;
-}
+  /*Box Shadow*/ /* Comment this if you don't like it*/
+  box-shadow: 5px 10px #bd93f9;
+  border-radius: 5px;
+  }
+
 
 .main h1 {
   color: var(--primary-color);

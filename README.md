@@ -1,6 +1,9 @@
 # A custom version of the original homepage I found on reddit.
 
 <img src="https://i.imgur.com/0i7OyQJ.png" alt="This is how the theme looks"></img>
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 
 <p>
